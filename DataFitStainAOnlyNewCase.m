@@ -4,6 +4,7 @@
 % Data Set: Daily New Cases
 % Input: None
 %----------------------------------------------------------------------%
+addpath('/Users/Qing/Desktop/IDRC/Vaccine shortage/Vaccine shortage MATLAB Codes/mcmcstat-master')
 
 clear model data params options
 load('AfricaCovidData');
